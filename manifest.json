@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/css/app.css": "/css/app.css",
+    "/css/vendor.css": "/css/vendor.css",
+    "/js/components/ExampleComponent.vue.js": "/js/components/ExampleComponent.vue.js",
+    "/js/pages/Home.vue.js": "/js/pages/Home.vue.js",
+    "/js/layouts/AppLayout.vue.js": "/js/layouts/AppLayout.vue.js",
+    "/js/pages/About.vue.js": "/js/pages/About.vue.js",
+    "/js/pages/Contact.vue.js": "/js/pages/Contact.vue.js"
+  }
